@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1571652645 source:c:\users\administrator\desktop\homework\homework\main.c
+	"point.h"
+	"new.h"
+	"circle.h"
+
+1571651602 c:\users\administrator\desktop\homework\homework\point.h
+
+1571652564 c:\users\administrator\desktop\homework\homework\new.h
+
+1571651002 c:\users\administrator\desktop\homework\homework\circle.h
+
+1571651850 source:c:\users\administrator\desktop\homework\homework\point.c
+	"point.h"
+	"new.h"
+	"base.h"
+
+1571653456 c:\users\administrator\desktop\homework\homework\base.h
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+
+1571652521 source:c:\users\administrator\desktop\homework\homework\circle.c
+	"circle.h"
+	"new.h"
+	"base.h"
+	"point.c"
+
+1571652385 c:\users\administrator\desktop\homework\homework\point.c
+	"point.h"
+	"new.h"
+	"base.h"
+

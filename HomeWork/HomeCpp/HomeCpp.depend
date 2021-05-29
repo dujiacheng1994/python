@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573014432 source:c:\users\administrator\desktop\homework\homecpp\main.cpp
+	<stdlib.h>
+	<stack>
+	<vector>
+	<stdio.h>
+

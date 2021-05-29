@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54694201-c49d-46ad-9bf5-642f2e52eb66" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>;</find>
+      <find>.</find>
+      <find>var</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>_</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/word_kmeans.py" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/../123/tsne.py" />
+        <option value="$PROJECT_DIR$/yixiang_sphere.py" />
+        <option value="$PROJECT_DIR$/GensimTest.py" />
+        <option value="$PROJECT_DIR$/AnnoyTest.py" />
+        <option value="$PROJECT_DIR$/CreateDatabase.py" />
+        <option value="$PROJECT_DIR$/Compress.py" />
+        <option value="$PROJECT_DIR$/Desize.py" />
+        <option value="$PROJECT_DIR$/wordcount.py" />
+        <option value="$PROJECT_DIR$/../WordCount/wordcount.py" />
+        <option value="$PROJECT_DIR$/tsne_yixiang.py" />
+        <option value="$PROJECT_DIR$/tsne_yixiang3D.py" />
+        <option value="$PROJECT_DIR$/Demo.py" />
+        <option value="$PROJECT_DIR$/lianx.py" />
+        <option value="$PROJECT_DIR$/tsne_yixiang3Dsphere.py" />
+        <option value="$PROJECT_DIR$/doc2vec_test.py" />
+        <option value="$PROJECT_DIR$/readfull_fromAILab.py" />
+        <option value="$PROJECT_DIR$/LDA.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NLP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="概念宇宙" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\概念宇宙" />
+      <recent name="C:\Users\Administrator\Desktop\NLP" />
+      <recent name="C:\Users\Administrator\Desktop\miscellaneous" />
+      <recent name="C:\work\miscellaneous" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\miscellaneous" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.LDA">
+    <configuration name="关键词统计" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../词频统计" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../词频统计/关键词统计.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LDA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="doc2vec_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\概念宇宙\分词.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readfull_fromAILab" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readfull_fromAILab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsne_yixiang3Dsphere (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tsne_yixiang3Dsphere.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LDA" />
+        <item itemvalue="Python.readfull_fromAILab" />
+        <item itemvalue="Python.doc2vec_test" />
+        <item itemvalue="Python.doc2vec_test" />
+        <item itemvalue="Python.doc2vec_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54694201-c49d-46ad-9bf5-642f2e52eb66" name="Default Changelist" comment="" />
+      <created>1559719104872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559719104872</updated>
+      <workItem from="1559719106079" duration="720000" />
+      <workItem from="1560225262575" duration="39000" />
+      <workItem from="1560225313218" duration="2600000" />
+      <workItem from="1560233494500" duration="3315000" />
+      <workItem from="1560242016468" duration="1430000" />
+      <workItem from="1560390625607" duration="85000" />
+      <workItem from="1560762480059" duration="2000" />
+      <workItem from="1560762490265" duration="2000" />
+      <workItem from="1560762497856" duration="2291000" />
+      <workItem from="1560764898752" duration="1492000" />
+      <workItem from="1560821488803" duration="82000" />
+      <workItem from="1560992394833" duration="38000" />
+      <workItem from="1561512121062" duration="979000" />
+      <workItem from="1561608784441" duration="54000" />
+      <workItem from="1561619358956" duration="42000" />
+      <workItem from="1561684365078" duration="1708000" />
+      <workItem from="1561687433503" duration="156000" />
+      <workItem from="1561687743123" duration="141000" />
+      <workItem from="1561688002900" duration="98000" />
+      <workItem from="1571323200991" duration="3307000" />
+      <workItem from="1572010108788" duration="22000" />
+      <workItem from="1576504389298" duration="940000" />
+      <workItem from="1576642213210" duration="2501000" />
+      <workItem from="1576650056877" duration="2260000" />
+      <workItem from="1576655883246" duration="2991000" />
+      <workItem from="1576659018484" duration="1212000" />
+      <workItem from="1576663737935" duration="3725000" />
+      <workItem from="1576668210121" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32241000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09986595" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.28895184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" auto_hide="true" x="522" y="59" width="492" height="706" id="SciView" order="3" show_stripe_button="false" type="FLOATING" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="4" side_tool="true" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NLP$readfull_fromAILab.coverage" NAME="readfull_fromAILab Coverage Results" MODIFIED="1576667283850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$gov_report.coverage" NAME="gov_report Coverage Results" MODIFIED="1576506383768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/iris_test.py" />
+    <entry file="file://$PROJECT_DIR$/Tfidf_test5.py" />
+    <entry file="file://$PROJECT_DIR$/000.png" />
+    <entry file="file://$PROJECT_DIR$/test.js" />
+    <entry file="file://$PROJECT_DIR$/../123/tsne.py" />
+    <entry file="file://$PROJECT_DIR$/二维概念宇宙_裁剪.png" />
+    <entry file="file://$PROJECT_DIR$/../WebCrawer/koutuforone.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/basemodel.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/__init__.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/_utils_any2vec.c" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/atmodel.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/coherencemodel.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/doc2vec.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim-3.4.0-py3.7.egg-info/PKG-INFO" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/models/word2vec.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/similarities/docsim.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gensim/similarities/index.py" />
+    <entry file="file://$PROJECT_DIR$/yixiang_sphere.py" />
+    <entry file="file://$PROJECT_DIR$/wordplot.png" />
+    <entry file="file://$PROJECT_DIR$/Tfidf_test_2.py" />
+    <entry file="file://$PROJECT_DIR$/wordplot2D.png" />
+    <entry file="file://$PROJECT_DIR$/wordplot21.png" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/smart_open/smart_open_lib.py" />
+    <entry file="file://$PROJECT_DIR$/result.txt" />
+    <entry file="file://$PROJECT_DIR$/CreateDatabase.py" />
+    <entry file="file://$PROJECT_DIR$/二维概念宇宙.png" />
+    <entry file="file://$PROJECT_DIR$/AnnoyTest.py" />
+    <entry file="file://$PROJECT_DIR$/wordcount.py" />
+    <entry file="file://$PROJECT_DIR$/wordcount.txt" />
+    <entry file="file://$PROJECT_DIR$/Desize.py" />
+    <entry file="file://$PROJECT_DIR$/GensimTest.py" />
+    <entry file="file://$PROJECT_DIR$/Index_test.py" />
+    <entry file="file://$PROJECT_DIR$/myplot.png" />
+    <entry file="file://$PROJECT_DIR$/../WordCount/wordcount.py" />
+    <entry file="file://$PROJECT_DIR$/tfidf_test.txt" />
+    <entry file="file://$PROJECT_DIR$/word_kmeans.py" />
+    <entry file="file://$PROJECT_DIR$/tsne_yixiang.py" />
+    <entry file="file://$PROJECT_DIR$/Demo.py" />
+    <entry file="file://$PROJECT_DIR$/Main.py" />
+    <entry file="file://$PROJECT_DIR$/../词频统计/关键词统计.py" />
+    <entry file="file://$PROJECT_DIR$/lianx.py" />
+    <entry file="file://$PROJECT_DIR$/gov_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#17#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_fromAILab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsne_yixiang3Dsphere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="110" column="20" lean-forward="true" selection-start-line="110" selection-start-column="20" selection-end-line="110" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readfull_fromAILab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

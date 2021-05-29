@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575877601 source:c:\users\administrator\desktop\homework\xml_parse\main.c
+	<stdio.h>
+	<stdlib.h>
+

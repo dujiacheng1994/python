@@ -1,0 +1,8 @@
+基于python3, 依赖opencv, numpy, pandas库，请预先安装
+在益达电脑上已布置好环境，步骤如下：
+
+0.以picbook下示例格式存放文件（与当前版本OSS存放形式一致），excel取名'图片描述.xlsx'存放于picbook下
+1.双击打开“第一步点我”
+2.输入 activate myenv,点回车
+3.输入 cd ./Desktop/ImageMatting,点回车
+4.输入 python autozuobiao.py,点回车
